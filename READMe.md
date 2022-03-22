@@ -22,7 +22,7 @@ The team started by creating a flowchart as a visual representation of how the u
 The team also created an entity relationship diagram that shows the relationship among the tables in our Postgres database, which includes books, authors and users. Each table is linked through a many to one relationship using a foreign key. This displays how to set up the databases for efficient communication and relations. 
 
 <!-- ![img](flow-chart.png) -->
-<img src="flow-chart.png" width=60% height=60%>
+<img src="entity_diagram.png" width=60% height=60%>
 <!-- What we've created, what inspired it -->
 
 
@@ -34,7 +34,8 @@ The team also created an entity relationship diagram that shows the relationship
 1. Make sure that you have installed [Java](https://jdk.java.net/17/) and [PostgresQL](https://www.postgresql.org/)
    <br><br>
 2. Clone this repository:
-   ``git@github.com:zhengyangqiu/BookingSystem.git`` and open in your favourite Java IDE (we recommend [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac))
+   ``git@github.com:zhengyangqiu/BookingSystem.git`` and open in your Java IDE of choice (in our case, we used IntelliJ)
+   (https://www.jetbrains.com/idea/download/#section=mac))
    <br><br>
 3.Now you can open the repository in your Java IDE (in our case, we used IntelliJ)
 
